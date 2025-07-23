@@ -28,3 +28,4 @@ In summary, this AI Chatbot project is an educational prototype aimed at explori
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/681c0cb2-8272-42f7-b3b1-edb9a6dc6284)
